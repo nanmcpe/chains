@@ -5459,26 +5459,25 @@
   "networkId": 600,
   "slip44": 1
 }, {
-  "name": "PEER Testnet",
-  "chain": "PEER",
-  "rpc": ["https://rpc-testnet.peer.inc"],
-  "faucets": ["https://testnet.peer.inc"],
+  "name": "Vine Testnet",
+  "chain": "VINE",
+  "rpc": ["https://rpc-testnet.vne.network"],
+  "faucets": ["https://vne.network/rose"],
   "nativeCurrency": {
-    "name": "PEER Token",
-    "symbol": "PEER",
+    "name": "VINE",
+    "symbol": "VNE",
     "decimals": 18
   },
-  "infoURL": "https://peer.inc",
-  "shortName": "PEER",
+  "infoURL": "https://www.peer.inc",
+  "shortName": "VINE",
   "chainId": 601,
   "networkId": 601,
-  "slip44": 1,
-  "icon": "peer",
+  "icon": "vine",
   "explorers": [{
-    "name": "PEER Explorer",
-    "url": "https://testnet.peer.inc",
+    "name": "Vine Explorer",
+    "url": "https://vne.network/rose",
     "standard": "none",
-    "icon": "peer"
+    "icon": "vine"
   }]
 }, {
   "name": "Graphlinq Blockchain Mainnet",
@@ -14061,6 +14060,21 @@
   "networkId": 8086,
   "explorers": []
 }, {
+  "name": "E-Dollar",
+  "chain": "USD",
+  "rpc": ["https://rpc.e-dollar.org"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "E-Dollar",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "infoURL": "https://e-dollar.org",
+  "shortName": "E-Dollar",
+  "chainId": 8087,
+  "networkId": 8087,
+  "explorers": []
+}, {
   "name": "StreamuX Blockchain",
   "chain": "StreamuX",
   "rpc": ["https://u0ma6t6heb:KDNwOsRDGcyM2Oeui1p431Bteb4rvcWkuPgQNHwB4FM@u0xy4x6x82-u0e2mg517m-rpc.us0-aws.kaleido.io/"],
@@ -14628,7 +14642,7 @@
   "name": "JIBCHAIN L1",
   "chain": "JBC",
   "rpc": ["https://rpc-l1.jibchain.net", "https://jib-rpc.inan.in.th"],
-  "faucets": ["https://faucet.jibchain.net/"],
+  "faucets": [],
   "icon": "jbc",
   "features": [{
     "name": "EIP155"
