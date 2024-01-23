@@ -47,6 +47,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "altair",
+  "icons": [{
+    "url": "ipfs://QmSwqWxZ5HRdc25HMhEmVKxZkwSKapuuyGHb8kyrtuzxat",
+    "width": 210,
+    "height": 210,
+    "format": "svg"
+  }]
+}, {
   "name": "scn",
   "icons": [{
     "url": "ipfs://QmdW7XfRgeyoaHXEvXp8MaVteonankR32CxhL3K5Yc2uQM",
@@ -167,12 +175,28 @@
     "format": "png"
   }]
 }, {
+  "name": "ruby",
+  "icons": [{
+    "url": "ipfs://QmXGJevyPHHKT28hDfsJ9Cq2DQ2bAavdie37MEwFQUVCQz",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "ultron",
   "icons": [{
     "url": "ipfs://QmPC6odFVyAQrXJQaZJVFpEQfRNbzZ5BjDZ7KBKmXPaYDw",
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "metachain",
+  "icons": [{
+    "url": "ipfs://QmUH2Ph2hW4upvevEAGCaSo7nd8nthqMx5RrHcrnNZ9Y3g",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
   }]
 }, {
   "name": "altcoinchain",
@@ -316,6 +340,14 @@
     "url": "ipfs://bafkreie3ba6ofosjqqiya6empkyw6u5xdrtcfzi2evvyt4u6utzeiezyhi",
     "width": 1500,
     "height": 1500,
+    "format": "png"
+  }]
+}, {
+  "name": "paxb",
+  "icons": [{
+    "url": "ipfs://QmSP66CHynXpMYkjV28uLjTR4kjuoJyy92igYYpvLoqHtG",
+    "width": 300,
+    "height": 300,
     "format": "png"
   }]
 }, {
@@ -1279,6 +1311,14 @@
     "format": "png"
   }]
 }, {
+  "name": "blx",
+  "icons": [{
+    "url": "ipfs://QmXM7XiLdSxhCub8MLSSo2J9V2qAkTcwdAGxcT57kurUzg",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "kalarchain",
   "icons": [{
     "url": "ipfs://bafkreihfoy2kgf2rebaoicso7z5h7ju46z6gtr64mskkths3qbfkrtnkjm",
@@ -1348,6 +1388,14 @@
     "url": "ipfs://QmTckcVTViRZ3NqT36MTt8AvgBSmudrbgU3pi8AaNtthoV",
     "width": 834,
     "height": 834,
+    "format": "png"
+  }]
+}, {
+  "name": "hth",
+  "icons": [{
+    "url": "ipfs://QmNR4Y3cUxefV7KGpGxMkjp5ofeJvbaUkR1GavsmTtK248",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {
@@ -1943,6 +1991,14 @@
     "format": "png"
   }]
 }, {
+  "name": "etherlink",
+  "icons": [{
+    "url": "ipfs://QmVqE4wq3fd3RKZwo7GxmW333ywHgYBZGvqwh3TUBM5DUi",
+    "width": 584,
+    "height": 545,
+    "format": "png"
+  }]
+}, {
   "name": "doken",
   "icons": [{
     "url": "ipfs://bafkreifms4eio6v56oyeemnnu5luq3sc44hptan225lr45itgzu3u372iu",
@@ -1965,6 +2021,14 @@
     "width": 500,
     "height": 500,
     "format": "jpg"
+  }]
+}, {
+  "name": "bevmcanary",
+  "icons": [{
+    "url": "ipfs://QmfMXiYn4xF9JwdjaqM5YKhqoByox51XvnL68VvKJS6yyu",
+    "width": 1000,
+    "height": 1000,
+    "format": "png"
   }]
 }, {
   "name": "fnc",
@@ -2447,6 +2511,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mthn",
+  "icons": [{
+    "url": "ipfs://bafkreia5q26knsvxgkwxze7woepvsqat5n2hodokh4ozzphmhexqez5s34",
+    "width": 100,
+    "height": 100,
+    "format": "png"
+  }]
+}, {
   "name": "globelchain",
   "icons": [{
     "url": "ipfs://QmPRHDsVNpRZ72GoQgDbpa3R4wKENmrXCRNuYJkxocFRDb",
@@ -2493,6 +2565,14 @@
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "centrifuge",
+  "icons": [{
+    "url": "ipfs://QmedNc3WvTm66iNK2NYW6Fzu5tx5FgNa6HCBf3DTHpzQZ1",
+    "width": 209,
+    "height": 208,
+    "format": "svg"
   }]
 }, {
   "name": "gmmt",
@@ -2548,6 +2628,14 @@
     "url": "ipfs://QmVbzZYXdVFY3uFaWQd7iSRtdM2UKWohj9fVqqEwxcw2RV",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "tangle",
+  "icons": [{
+    "url": "ipfs://QmbxMNBTeQgch8t9GpWdLiS2R3wPYCzVRaX5kCQ4o5QU3w",
+    "width": 1600,
+    "height": 1600,
     "format": "png"
   }]
 }, {
@@ -2804,6 +2892,14 @@
     "url": "ipfs://QmRALA5qvQBRwWre8ofuhCbr3wxVmPS3kGetRR9uJqbqqe",
     "width": 1503,
     "height": 1504,
+    "format": "png"
+  }]
+}, {
+  "name": "storagechain",
+  "icons": [{
+    "url": "ipfs://QmfN9r1S7FvzkbjqfNMdUikhHmCw5e6UqsTuRD51S8T6Cq",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -3071,6 +3167,14 @@
     "format": "png"
   }]
 }, {
+  "name": "w3gamez",
+  "icons": [{
+    "url": "ipfs://QmaQdiE7vwxKeuWCjk4nKBikcpg4XCzQkFWGrAZHmMKnrq",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  }]
+}, {
   "name": "klyntar",
   "icons": [{
     "url": "ipfs://QmaDr9R6dKnZLsogRxojjq4dwXuXcudR8UeTZ8Nq553K4u",
@@ -3241,9 +3345,9 @@
 }, {
   "name": "ancient8",
   "icons": [{
-    "url": "ipfs://QmSX8sHToRzyFupT8BvPQjVsegRWFYz2mdnLkVnqBFKohY",
-    "width": 901,
-    "height": 901,
+    "url": "ipfs://QmXLmYMqZ2ZKyaaEjayNjLai4RUo2YmorUDwkk95xmdTUr",
+    "width": 80,
+    "height": 80,
     "format": "png"
   }]
 }, {
@@ -3439,6 +3543,22 @@
     "format": "png"
   }]
 }, {
+  "name": "deelance",
+  "icons": [{
+    "url": "ipfs://Qmay2j8biuo5xLJL8NcLtrzubAEHuCWz65cdbKE1pSnGf6",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "kalichain",
+  "icons": [{
+    "url": "ipfs://bafkreieox7v337p3jfhd37dz74mq6mn3uk5i5475rmzpirmyp6ydcfzzqi",
+    "width": 350,
+    "height": 350,
+    "format": "png"
+  }]
+}, {
   "name": "hyperonchain",
   "icons": [{
     "url": "ipfs://QmWxhyxXTEsWH98v7M3ck4ZL1qQoUaHG4HgtgxzD2KJQ5m",
@@ -3629,6 +3749,14 @@
     "width": 200,
     "height": 200,
     "format": "png"
+  }]
+}, {
+  "name": "haven1",
+  "icons": [{
+    "url": "ipfs://QmbSwngVDEiGaw3JzdME7fz5mYBWKbbz1ZerTpimaAxNXR",
+    "width": 32,
+    "height": 33,
+    "format": "svg"
   }]
 }, {
   "name": "altlayer",
