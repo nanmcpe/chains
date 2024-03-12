@@ -10044,7 +10044,7 @@
     "symbol": "JBC",
     "decimals": 18
   },
-  "rpc": ["https://rpc-l1.jibchain.net", "https://jib-rpc.inan.in.th"],
+  "rpc": ["https://rpc-l1.jibchain.net", "https://jib-rpc.inan.in.th", "https://rpc-l1.jbc.xpool.pw", "https://rpc-l1.jbc.aomwara.in.th"],
   "faucets": [],
   "infoURL": "https://jibchain.net"
 }, {
